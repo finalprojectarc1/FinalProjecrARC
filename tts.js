@@ -77,3 +77,7 @@ function pengulanganTabel(table) {
         table[j].disabled = true;
     }
 }
+
+function togglePopup(){
+    document.getElementById("popup-1").classList.toggle("active");
+  }
