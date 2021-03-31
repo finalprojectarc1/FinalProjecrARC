@@ -18,7 +18,16 @@ td input {
 .block {
 	background-color: #000;
 }
-.popuppetunjuk .overlay {
+
+.boxpertanyaan {
+
+}
+
+.btnboxpertanyaan {
+	background-color: aqua;
+
+}
+/* .popuppetunjuk .overlay {
 	position:fixed;
 	top:0px;
 	left:0px;
@@ -81,7 +90,7 @@ td input {
 	text-transform:uppercase;
 	font-weight:600;
 	background:#fff;
-  }
+  } */
 					
 /* Popup container */
 .popup {
